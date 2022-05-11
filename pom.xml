@@ -36,12 +36,12 @@ Here we are giving war package format
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.164.177:8081/repository/raja-release/</url>
+            <url>http://192.168.164.179:8081/repository/raja-release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.164.177:8081/repository/rajasnapshot/</url>
+            <url>http://192.168.164.179:8081/repository/raja-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
